@@ -4,17 +4,19 @@
     "url": "https://lordmiss.com",
     "icon": "https://favicons.githubusercontent.com/lordmiss.com",
     "slug": "calm-shouting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 725,
-    "timeWeek": 643,
-    "timeMonth": 614,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 594,
+    "timeDay": 449,
+    "timeWeek": 585,
+    "timeMonth": 594,
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2021-09-19": 0
+    }
   }
 ]
